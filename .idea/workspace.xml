@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="aa01836c-61f1-4e03-b292-ccdecf327677" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/AndroidManifest.xml" afterPath="$PROJECT_DIR$/android/AndroidManifest.xml" />
     </list>
     <ignored path="InvaderYB.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -3287,7 +3286,14 @@
       <option name="project" value="LOCAL" />
       <updated>1485989210734</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="updated latest gradle made it portrait mode. need new fire button">
+      <created>1485989930780</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1485989930780</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -3344,7 +3350,8 @@
     <MESSAGE value="updated libgdx to 1.9.4 and updated gradle working" />
     <MESSAGE value="updated libgdx to 1.9.4 and updated gradle working updated gradle plugin 2.2.2" />
     <MESSAGE value="updated latest gradle" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated latest gradle" />
+    <MESSAGE value="updated latest gradle made it portrait mode. need new fire button" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated latest gradle made it portrait mode. need new fire button" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
